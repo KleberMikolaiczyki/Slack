@@ -1,0 +1,12 @@
+body{
+    background: #f6efe8;
+}
+.cab{
+    border: none;
+    background-color: transparent;
+    margin-left: 8px;
+}
+.cab2{
+    border: 1px solid rgb(99, 2, 99);
+    border-radius: 5px;
+}
